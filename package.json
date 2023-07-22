@@ -1,0 +1,23 @@
+{
+  "name": "valaxy-blog",
+  "version": "0.14.45",
+  "private": true,
+  "scripts": {
+    "build": "npm run build:ssg && npm run rss && npm run fuse",
+    "build:spa": "valaxy build",
+    "build:ssg": "valaxy build --ssg",
+    "fuse": "valaxy fuse",
+    "dev": "valaxy",
+    "rss": "valaxy rss",
+    "preview": "vite preview",
+    "up": "taze major -I"
+  },
+  "dependencies": {
+    "valaxy": "0.14.45",
+    "valaxy-theme-yun": "0.14.45"
+  },
+  "devDependencies": {
+    "taze": "^0.11.2",
+    "typescript": "^5.1.6"
+  }
+}
