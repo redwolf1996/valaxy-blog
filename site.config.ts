@@ -6,7 +6,7 @@ export default defineSiteConfig({
   title: 'Lost And Found',
   subtitle: '',
   author: {
-    name: 'Syx',
+    name: 'syx9527',
     status: {
       emoji: '😣',
     },
