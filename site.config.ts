@@ -10,7 +10,7 @@ export default defineSiteConfig({
     status: {
       emoji: '😣',
     },
-    avatar: 'https://blog.shaoyunxiang.cn/post-images/avatar.jpg',
+    avatar: 'https://blog.shaoyunxiang.cn/post-images/avatar.png',
   },
   favicon: 'https://www.yunyoujun.cn/favicon.svg',
   description: 'Love, that never told can be.',
