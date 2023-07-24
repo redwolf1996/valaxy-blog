@@ -11,7 +11,7 @@ export default defineSiteConfig({
       emoji: '😣',
     },
   },
-  favicon: 'https://www.yunyoujun.cn/favicon.svg',
+  favicon: 'https://blog.shaoyunxiang.cn/post-images/avatar.jpg',
   description: 'Love, that never told can be.',
   search: {
     enable: true,
