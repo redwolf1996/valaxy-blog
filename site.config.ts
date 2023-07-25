@@ -8,7 +8,7 @@ export default defineSiteConfig({
   author: {
     name: 'syx9527',
     status: {
-      emoji: '😣',
+      emoji: '🤫',
     },
     avatar: 'https://blog.shaoyunxiang.cn/post-images/avatar.png',
   },
