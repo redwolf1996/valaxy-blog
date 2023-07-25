@@ -4,7 +4,7 @@ export default defineSiteConfig({
   url: 'https://www.shaoyunxiang.cn',
   lang: 'zh-CN',
   title: 'Lost And Found',
-  subtitle: '',
+  subtitle: 'Love, that never told can be.',
   author: {
     name: 'syx9527',
     status: {
@@ -13,7 +13,7 @@ export default defineSiteConfig({
     avatar: 'https://blog.shaoyunxiang.cn/post-images/avatar.png',
   },
   favicon: 'https://www.yunyoujun.cn/favicon.svg',
-  description: 'Love, that never told can be.',
+  description: '我们呱呱坠地，却要用一生来学习如何闭嘴',
   search: {
     enable: true,
     type: 'fuse',
