@@ -17,7 +17,7 @@ export default defineValaxyConfig<UserThemeConfig>({
   themeConfig: {
     banner: {
       enable: true,
-      title: 'Syx的部落格',
+      title: 'syx的小站',
       cloud: {
         enable: true,
       },
