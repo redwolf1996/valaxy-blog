@@ -13,7 +13,7 @@ export default defineSiteConfig({
     avatar: 'https://blog.shaoyunxiang.cn/post-images/avatar.png',
   },
   favicon: 'https://www.yunyoujun.cn/favicon.svg',
-  description: '我们呱呱坠地，却要用一生来学习如何闭嘴',
+  description: '你是三季人吗',
   search: {
     enable: true,
     type: 'fuse',
