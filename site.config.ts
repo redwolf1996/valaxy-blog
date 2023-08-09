@@ -3,8 +3,8 @@ import { defineSiteConfig } from 'valaxy'
 export default defineSiteConfig({
   url: 'https://www.shaoyunxiang.cn',
   lang: 'zh-CN',
-  title: 'Lost And Found',
-  subtitle: 'Love, that never told can be.',
+  title: 'Lost and found',
+  subtitle: 'love, that never told can be.',
   author: {
     name: 'syx9527',
     status: {
