@@ -4,7 +4,7 @@ export default defineSiteConfig({
   url: 'https://www.shaoyunxiang.cn',
   lang: 'zh-CN',
   title: 'Lost and found',
-  subtitle: 'Stay Skeptical, Stay Angry!',
+  subtitle: 'Stay Hungry Stay Foolish',
   author: {
     name: 'syx9527',
     status: {
