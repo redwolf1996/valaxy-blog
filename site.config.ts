@@ -4,7 +4,7 @@ export default defineSiteConfig({
   url: 'https://www.shaoyunxiang.cn',
   lang: 'zh-CN',
   title: 'Lost and found',
-  subtitle: 'love, that never told can be.',
+  subtitle: 'Stay Skeptical, Stay Angry!',
   author: {
     name: 'syx9527',
     status: {
@@ -13,7 +13,7 @@ export default defineSiteConfig({
     avatar: 'https://blog.shaoyunxiang.cn/post-images/avatar.png',
   },
   favicon: 'https://www.yunyoujun.cn/favicon.svg',
-  description: '你是三季人吗',
+  description: '',
   search: {
     enable: true,
     type: 'fuse',
